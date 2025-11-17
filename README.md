@@ -31,6 +31,7 @@ Proyecto de ejemplo para implementar un sistema RAG (Retrieval-Augmented Generat
 2. Instalar dependencias:
    uv pip install -r requirements.txt
 3. Asegurarse de que Ollama está instalado y accesible.
+4. Tener los modelos de Ollama nomic-embed-text, embeddinggemma, qwen2.5:0.5b.
 
 ## Uso básico
 
